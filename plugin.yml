@@ -1,0 +1,7 @@
+name: EVShop
+main: EVShop\Main
+version: 1.0.0
+api: [2.0.0]
+author: zTheUnxversePM2_
+description: Sistema de tienda con subcomandos infinitos
+depend: [EconomyAPI]
