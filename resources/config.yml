@@ -1,0 +1,39 @@
+unknown-subcommand: "&cSubcomando '{subcommand}' no existe. Usa &e/comprar &cpara ayuda."
+no-money-message: "&cNo tienes suficiente dinero. Necesitas &e{precio}$ &cy tienes &e{dinero}$."
+invalid-quantity-message: "&cCantidad inválida. Debe ser un número positivo."
+
+comandos:
+  comprar:
+    aliases: ["shop", "adquirir"]
+    _ayuda_: "&aUsa: &e/comprar <item> [cantidad]"
+    lana:
+      _ayuda_: "&aColores disponibles: roja, verde, azul"
+      roja:
+        item: "35:14"
+        precio: 100
+        cantidad: 16
+        _texto_: "&aHas comprado {cantidad} lana roja por {precio}$!"
+        _sonido_: "positivo"
+      verde:
+        item: "35:5"
+        precio: 100
+        cantidad: 16
+        _texto_: "&aHas comprado {cantidad} lana verde por {precio}$!"
+        _sonido_: "positivo"
+      azul:
+        item: "35:11"
+        precio: 100
+        cantidad: 16
+        _texto_: "&aHas comprado {cantidad} lana azul por {precio}$!"
+        _sonido_: "positivo"
+    diamante:
+      item: "264"
+      precio: 2500
+      cantidad: 16
+      _texto_: "&aHas comprado {cantidad} diamantes por {precio}$!"
+    piedra:
+      item: "1"
+      precio: 1200
+      cantidad: 64
+      _texto_: "&aHas comprado {cantidad} piedra por {precio}$!"
+      _sonido_: "positivo"
