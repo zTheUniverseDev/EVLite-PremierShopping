@@ -36,4 +36,4 @@ Reinicia el servidor y ¡listo!
 👥 Créditos y Colaboradores
 Desarrollador Principal: zTheUnxversePM2_.
 
-Agradecimientos: A Reptilcrak por su veteranía y apoyo en el testing, y a Raid por la asistencia técnica en el staff de UniverseLand.
+Agradecimientos: A Reptilcrak por su veteranía y apoyo en el testing, y a MrRaidT por la asistencia técnica en el staff de UniverseLand.
